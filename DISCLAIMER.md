@@ -7,7 +7,7 @@ No proprietary code, API logic, or confidential assets are included in this repo
 
 ## 🔒 1. Intellectual Property Notice
 
-The full version of Story Spark — including:
+**The full version of Story Spark — including:**
 
 - source code
 - API routes
@@ -21,7 +21,7 @@ The full version of Story Spark — including:
 
 …is the intellectual property of god-Tier Storytelling™ / god-Tier University™.
 
-These materials are not included in this repository and may not be:
+**These materials are not included in this repository and may not be:**
 
 - copied
 - reproduced
@@ -34,7 +34,7 @@ These materials are not included in this repository and may not be:
 
 ## 🔐 2. API & Security Notice
 
-This repository does not include:
+**This repository does not include:**
 
 - OpenAI API keys
 - environment variables
@@ -49,14 +49,14 @@ All production code is stored in a private repository.
 
 ## 🧪 3. Demo + Portfolio Use Only
 
-This project is presented for:
+**This project is presented for:**
 
 - portfolio review
 - technical interviews
 - engineering skill evaluation
 - product case study purposes
 
-It is not intended for:
+**It is not intended for:**
 
 - distribution
 - deployment
@@ -74,15 +74,15 @@ Nothing in this repository constitutes a complete or fully exact description of 
 
 ## 🤝 5. Access to Private Source Code
 
-**A private repository containing the complete implementation may be shared upon request with:
-**
-✔ Verified recruiters
-✔ Hiring managers
-✔ Potential collaborators
-✔ Contract clients
+**A private repository containing the complete implementation may be shared upon request with:**
 
-**Access may require:
-**
+- ✔ Verified recruiters
+- ✔ Hiring managers
+- ✔ Potential collaborators
+- ✔ Contract clients
+
+**Access may require:**
+
 - NDA (if necessary)
 - Limited-time viewing
 - Secure GitHub permissions
