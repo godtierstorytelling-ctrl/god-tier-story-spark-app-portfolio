@@ -78,12 +78,12 @@ god-tier-story-spark-app-portfolio/
 This is a portfolio-only repository.
 It deliberately does not include:
 
-❌ API keys
-❌ Environment variables
-❌ Source code
-❌ GPT logic or prompt chains
-❌ Proprietary Story Spark logic
-❌ Internal system architecture
+- ❌ API keys
+- ❌ Environment variables
+- ❌ Source code
+- ❌ GPT logic or prompt chains
+- ❌ Proprietary Story Spark logic
+- ❌ Internal system architecture
 
 A private code repository exists and can be shared upon request with trusted recruiters or employers under NDA.
 
