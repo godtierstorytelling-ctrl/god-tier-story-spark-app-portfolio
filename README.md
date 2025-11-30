@@ -7,8 +7,8 @@ AI-Powered Story Ideation App (Portfolio Version)
 
 This is the public-facing portfolio repository for Story Spark, a web application designed to help writers generate ideas, loglines, heroes, worlds, and story structures using Next.js, React, and the OpenAI API.
 
-## 🔗 Live App: https://story-spark-wine.vercel.app/
-## 🔗 Demo Video: Coming Soon!
+🔗 Live App: https://story-spark-wine.vercel.app/
+🔗 Demo Video: Coming Soon!
 -- 
 ## 🚀 Overview
 
