@@ -199,5 +199,3 @@ These design decisions reflect:
 - commercial product thinking
 
 …and position Story Spark for scalable growth in v2 and beyond.
-
-…and position Story Spark for scalable growth in v2 and beyond.
