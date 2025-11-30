@@ -9,6 +9,7 @@ This is the public-facing portfolio repository for Story Spark, a web applicatio
 
 - 🔗 **Live App:** https://story-spark-wine.vercel.app/
 - 🔗 **Demo Video:** Coming Soon!
+--
 
 ## 🚀 Overview
 
@@ -24,7 +25,6 @@ Story Spark is an AI-assisted writing tool that helps storytellers:
 
 This repository provides an overview of the project, the architecture, and the technologies used — but does NOT include proprietary code, API keys, or private logic.
 A private GitHub repository with the full source code can be shared upon request.
-
 --
 
 ## 🧠 Features (Portfolio Summary)
