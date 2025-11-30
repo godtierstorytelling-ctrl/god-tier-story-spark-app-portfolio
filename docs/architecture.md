@@ -72,7 +72,7 @@ Responsibilities include:
 
 All sensitive operations (API keys, AI prompt construction, logic, etc.) are handled server-side only.
 
-**3.2 Backend (Next.js API Routes)**
+<h3> 3.2 Backend (Next.js API Routes) </h3>
 
 The backend uses serverless functions provided by Vercel + Next.js:
 - Receives writing prompts from the frontend
@@ -83,7 +83,7 @@ The backend uses serverless functions provided by Vercel + Next.js:
 
 These routes run in isolated, auto-scaling serverless environments.
 
-**3.3 AI Integration (OpenAI API)**
+<h3> 3.3 AI Integration (OpenAI API) </h3>
 
 The application integrates with:
 - GPT-4 / GPT-5.1 / latest available model
@@ -100,7 +100,7 @@ OpenAI is used for:
 
 All prompts, templates, and logic required for these features are stored in a private backend repository and are not included in this public repo.
 
-**3.4 Deployment (Vercel)**
+<h3> 3.4 Deployment (Vercel) </h3>
 
 The application is deployed on Vercel, which provides:
 
