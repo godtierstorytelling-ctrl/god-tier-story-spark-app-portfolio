@@ -131,7 +131,7 @@ Empowering writers with AI-driven creative tools.
 
 ## 📬 Contact
 
-📧 Email: vanisha.pierce@gmail.com
-🐦 Twitter/Threads: @colbyrrice
-📺 YouTube: https://www.youtube.com/@ColbyRRice
-🌐 Website: http://vanishareneepierce.com 
+- 📧 Email: vanisha.pierce@gmail.com
+- 🐦 Threads: @colbyrrice
+- 📺 YouTube: https://www.youtube.com/@ColbyRRice
+- 🌐 Website: http://vanishareneepierce.com 
