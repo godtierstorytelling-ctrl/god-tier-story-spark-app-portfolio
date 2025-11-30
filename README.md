@@ -1,3 +1,13 @@
+# ✨ STORY SPARK  
+### AI-Powered Story Ideation • Worldbuilding • Character Creation • Plot Architecting
+
+Built with Next.js, React, Vercel, and the OpenAI API.  
+This repo contains a high-level architectural overview, workflows, and design decisions for Story Spark.
+
+🔮 A creative engine for storytellers.  
+💡 A modular system for turning ideas into stories.  
+🔐 Private source code available by request.
+
 # god-Tier Story Spark! The App
 
 Story Spark: An AI-powered writing and story ideation tool built with Next.js, React, Vercel, and the OpenAI API. Public portfolio version — private source code available upon request.
