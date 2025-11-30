@@ -126,7 +126,7 @@ Recruiters, hiring managers, and collaborators may request temporary access: �
 
 ## ⭐ About the Creator
 
-Built with ✨ by Nisha / god-Tier Storytelling
+**Built with ✨ by Nisha Renée Pierce / god-Tier Storytelling.**
 Empowering writers with AI-driven creative tools.
 
 ## 📬 Contact
