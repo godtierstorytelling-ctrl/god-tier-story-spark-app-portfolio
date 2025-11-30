@@ -59,7 +59,7 @@ The architecture follows a client → serverless API → OpenAI → serverless A
                           └────────────────────────────────┘
 ```
 ## 🧱 3. Application Layers
-<h3> **3.1 Frontend (Next.js + React)** </h3>
+<h3> 3.1 Frontend (Next.js + React) </h3>
 
 The UI is built using React components rendered within Next.js pages.
 
