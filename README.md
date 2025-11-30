@@ -9,6 +9,7 @@ This is the public-facing portfolio repository for Story Spark, a web applicatio
 
 - 🔗 **Live App:** https://story-spark-wine.vercel.app/
 - 🔗 **Demo Video:** Coming Soon!
+
 --
 
 ## 🚀 Overview
@@ -39,21 +40,21 @@ A private GitHub repository with the full source code can be shared upon request
 
 ## 🏗️ Tech Stack
 
-Frontend:
+**Frontend:**
 - Next.js
 - React
 - JavaScript / TypeScript
 - CSS / Tailwind (if used)
 
-Backend:
+**Backend:**
 - Next.js API Routes
 - OpenAI API
 - Node.js
 
-Deployment:
+**Deployment:**
 - Vercel (serverless hosting)
 - GitHub (repo + version control)
 
-Other:
+**Other:**
 - CI/CD via Vercel + GitHub
 - Environment Variables (for secure API access)
