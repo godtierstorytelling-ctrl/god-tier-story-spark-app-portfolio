@@ -198,5 +198,5 @@ A private version of the repository can be shared with authorized recruiters upo
 
 For private source code access or technical discussions:
 
-📧 vanisha.pierce@gmail.com
+📧 vanisha.pierce@gmail.com  
 🌐 http://vanishareneepierce.com
