@@ -10,7 +10,6 @@ This repo contains a high-level architectural overview, workflows, and design de
 💡 A modular system for turning ideas into stories.  
 🔐 Private source code available by request.
 
---
 ## 🌟 Welcome to the god-Tier Story Spark App GitHub!
 
 This is the public-facing portfolio repository for Story Spark, a web application designed to help writers generate ideas, loglines, heroes, worlds, and story structures using Next.js, React, and the OpenAI API.
